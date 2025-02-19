@@ -1,4 +1,10 @@
 # Penetration Testing Toolkit
+COMPANY: CODETECH IT SOLUTIONS
+NAME: TAIYABA KAUSAR
+INTERN ID:CT08NTZ
+DOMAIN: CYBERSECURITY AND ETHICAL HACKING
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTOSH
 
 ## Overview
 This toolkit provides basic penetration testing functionalities, including a port scanner and a brute-forcer.
